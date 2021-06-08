@@ -22,7 +22,7 @@ _Note: Use makefile for build, testing, running and starting dependencies._
 
 ## Authentication
 
-The authentication is done by basic auth.
+The authentication is done by basic auth.  
 The credentials must be checked in postgres.
 
 | field | type |
