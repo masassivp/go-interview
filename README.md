@@ -17,7 +17,7 @@ To deliver the test, fork this project and provide the following items:
 - The software will be compiled with the latest go version.
 - The software and its ecosystem will be run and tested on a local computer.
 
-_Note: You can use Docker and docker-compose to provide the databases._
+_Note: You can use Docker and docker-compose to provide the databases._  
 _Note: Use makefile for build, testing, running and starting dependencies._
 
 ## Authentication
